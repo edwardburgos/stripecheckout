@@ -7,3 +7,4 @@
 - Borrar componentes inncesarios
 - Integrar Google Calendar - Para lo cuál necesito indicar horarios en las clases
 - Devolver información correctamente para que sea almacenada
+- Limpiar consola, console.log y warnings
